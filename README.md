@@ -24,7 +24,7 @@ Game Over
 
 After completing the specified number of rounds, the game ends, and your total score is displayed.
 Customize the Game
-You can customize the game by adjusting the following constants in the Task2 class:
+You can customize the game by adjusting the following constants in the Task1 class:
 
 MIN_RANGE: Minimum value for the random number generation.
 MAX_RANGE: Maximum value for the random number generation.
